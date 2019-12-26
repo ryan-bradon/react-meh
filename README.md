@@ -1,2 +1,0 @@
-# react-meh
-Begin app
