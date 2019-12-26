@@ -4,7 +4,7 @@ import logo from './logo.svg';
 import './App.css';
 
 const App = () => {
-  const [message, setMessage] = useState('...loading')
+  const [message, setMessage] = useState('...loading, dude 🖕')
 
   useEffect(() => {
     async function fetchData () {
